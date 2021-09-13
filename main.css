@@ -8,6 +8,8 @@ nav {
     color: white;
     background-color:rgb(0, 191, 255);
     border-radius: 5px;
+    float: right;
+    padding: 5px;
 }
 
 body{
